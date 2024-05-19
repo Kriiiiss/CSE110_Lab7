@@ -1,3 +1,3 @@
 # Lab 7 - Starter
 
-Page link: https://github.com/Kriiiiss/CSE110_Lab7
+Page link: https://kriiiiss.github.io/CSE110_Lab7/
